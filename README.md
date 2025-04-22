@@ -1,6 +1,6 @@
 # ✨ Tic Tac Toe – Android App
 
-A simple and fun implementation of the classic **Tic Tac Toe** game for Android! Built using **Java/Kotlin** and **Android Studio**.
+A simple and fun implementation of the classic **Tic Tac Toe** game for Android! Built using **Java** and **Android Studio**.
 
 ---
 
